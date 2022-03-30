@@ -16,43 +16,30 @@
 
 
 ### Описание проекта 
-Проанализировать и обработать данные с сайта hh.ru.
+Комплексный анализ данных с сайта hh.ru.
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
 
-### Какой кейс решаем?
-Нужно написать программу ,которая угадывает число за минимальное число попыток.
-
-**Условия соревнования:**
-- Компьютер загадывает число от 0 до 100, и нам его нужно угадать. То есть написать программу , которая угадывает это число. 
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-- Необходимо добиться того, чтобы программа угадывала число меньше, чем за 20 попыток.
-
-**Метрика качества**   
-Результат оценивается по среднему количеству попыток при 1000 повторений.
-
 **Что практикуем?**   
-- Учимся писать хороший код на Python.
-- Учимся работать с IDE.
+- Работу с библиотеками pandas, numpy, seaborn, plotly.
 - Учимся работать с GitHub.
 
 ### Краткая информация о данных 
-..........
+Дата-сеты используемые в анализе (Курсы валют - https://drive.google.com/file/d/1fhz0iFrYO3XwEhYhQp62mNKzuwjkxZJk/view?usp=sharing ,Вакансии с hh.ru -https://drive.google.com/file/d/1gruX2yoiwSIuI44IYtD-bzSumJHorHZG/view?usp=sharing)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
 ### Этапы работы над проектом
-,,,,,,,,,,,,,
-
+1. # Исследование структуры данных
+2. # Преобразование данных
+3. # Исследование зависимостей в данных (визуализация)
+4. # Очистка данных
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
 ### Результат
-,,,,,,,,,,,,,,
+Project_1/Project 1.ipynb
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
-### Выводы 
-,,,,,,,,,,,,,,,,,,,,,,,
 
-:arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
