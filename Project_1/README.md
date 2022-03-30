@@ -26,7 +26,8 @@
 - Учимся работать с GitHub.
 
 ### Краткая информация о данных 
-Дата-сеты используемые в анализе (Курсы валют - https://drive.google.com/file/d/1fhz0iFrYO3XwEhYhQp62mNKzuwjkxZJk/view?usp=sharing ,Вакансии с hh.ru -https://drive.google.com/file/d/1gruX2yoiwSIuI44IYtD-bzSumJHorHZG/view?usp=sharing)
+Дата-сеты используемые в анализе (Курсы валют - https://drive.google.com/file/d/1fhz0iFrYO3XwEhYhQp62mNKzuwjkxZJk/view?usp=sharing ,
+Вакансии с hh.ru -https://drive.google.com/file/d/1gruX2yoiwSIuI44IYtD-bzSumJHorHZG/view?usp=sharing)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
