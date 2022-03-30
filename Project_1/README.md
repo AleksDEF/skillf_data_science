@@ -39,7 +39,7 @@
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
 ### Результат
-(https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/Project_1.ipynb)
+(https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/Project%201.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
