@@ -31,14 +31,14 @@
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
 ### Этапы работы над проектом
-1. # Исследование структуры данных
-2. # Преобразование данных
-3. # Исследование зависимостей в данных (визуализация)
-4. # Очистка данных
+1. #### Исследование структуры данных
+2. #### Преобразование данных
+3. #### Исследование зависимостей в данных (визуализация)
+4. #### Очистка данных
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
 ### Результат
-Project_1/Project 1.ipynb
+(https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/Project 1.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project_1/README.md#Оглавление)
 
